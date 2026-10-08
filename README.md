@@ -12,13 +12,13 @@ x install terminal-image-cli#readme
 
 ## OpenSSF Scorecard
 
-Overall score: **3 / 10**
+Overall score: **2.9 / 10**
 
 Lowest-scoring checks:
 
 - **Code-Review** (1/10) — Found 2/18 approved changesets -- score normalized to 1
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 
 ## Source
 
@@ -37,12 +37,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-10 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -53,4 +53,4 @@ Install metadata for terminal-image-cli#readme lives in the [x-cmd/install](http
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:57:11Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:03:36Z._
